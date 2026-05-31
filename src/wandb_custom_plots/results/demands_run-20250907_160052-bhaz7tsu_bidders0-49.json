@@ -1,0 +1,1146 @@
+{
+  "Bidder_0": [
+    {
+      "item": "station_4_6",
+      "value": 27.02
+    },
+    {
+      "item": "station_3_6",
+      "value": 27.01
+    },
+    {
+      "item": "station_2_6",
+      "value": 26.97
+    },
+    {
+      "item": "station_5_6",
+      "value": 26.94
+    },
+    {
+      "item": "station_1_6",
+      "value": 26.92
+    },
+    {
+      "item": "station_0_6",
+      "value": 26.89
+    }
+  ],
+  "Bidder_1": [
+    {
+      "item": "station_4_11",
+      "value": 15.0
+    },
+    {
+      "item": "station_3_11",
+      "value": 14.98
+    },
+    {
+      "item": "station_5_11",
+      "value": 14.98
+    },
+    {
+      "item": "station_2_14",
+      "value": 14.94
+    },
+    {
+      "item": "station_0_8",
+      "value": 14.92
+    },
+    {
+      "item": "station_1_11",
+      "value": 14.91
+    }
+  ],
+  "Bidder_2": [
+    {
+      "item": "station_1_19",
+      "value": 22.87
+    },
+    {
+      "item": "station_4_22",
+      "value": 22.86
+    },
+    {
+      "item": "station_3_22",
+      "value": 22.85
+    },
+    {
+      "item": "station_5_22",
+      "value": 22.85
+    },
+    {
+      "item": "station_0_22",
+      "value": 22.85
+    },
+    {
+      "item": "station_2_19",
+      "value": 22.84
+    }
+  ],
+  "Bidder_3": [
+    {
+      "item": "station_5_2",
+      "value": 102.19
+    },
+    {
+      "item": "station_0_2",
+      "value": 102.13
+    },
+    {
+      "item": "station_4_3",
+      "value": 101.98
+    },
+    {
+      "item": "station_1_3",
+      "value": 101.96
+    },
+    {
+      "item": "station_3_2",
+      "value": 101.96
+    },
+    {
+      "item": "station_2_3",
+      "value": 101.91
+    }
+  ],
+  "Bidder_4": [
+    {
+      "item": "station_4_7",
+      "value": 179.52
+    },
+    {
+      "item": "station_3_7",
+      "value": 179.47
+    },
+    {
+      "item": "station_5_7",
+      "value": 179.37
+    },
+    {
+      "item": "station_2_7",
+      "value": 179.35
+    },
+    {
+      "item": "station_1_7",
+      "value": 179.26
+    },
+    {
+      "item": "station_0_7",
+      "value": 179.23
+    }
+  ],
+  "Bidder_5": [
+    {
+      "item": "station_3_13",
+      "value": 24.55
+    },
+    {
+      "item": "station_4_13",
+      "value": 24.55
+    },
+    {
+      "item": "station_2_12",
+      "value": 24.53
+    },
+    {
+      "item": "station_1_13",
+      "value": 24.43
+    },
+    {
+      "item": "station_5_13",
+      "value": 24.39
+    },
+    {
+      "item": "station_0_15",
+      "value": 24.34
+    }
+  ],
+  "Bidder_6": [
+    {
+      "item": "station_5_17",
+      "value": 29.56
+    },
+    {
+      "item": "station_0_17",
+      "value": 29.5
+    },
+    {
+      "item": "station_4_17",
+      "value": 29.48
+    },
+    {
+      "item": "station_3_17",
+      "value": 29.46
+    },
+    {
+      "item": "station_1_17",
+      "value": 29.43
+    },
+    {
+      "item": "station_2_17",
+      "value": 29.42
+    }
+  ],
+  "Bidder_7": [
+    {
+      "item": "station_4_9",
+      "value": 43.75
+    },
+    {
+      "item": "station_3_21",
+      "value": 43.73
+    },
+    {
+      "item": "station_2_21",
+      "value": 43.66
+    },
+    {
+      "item": "station_5_21",
+      "value": 43.59
+    },
+    {
+      "item": "station_1_9",
+      "value": 43.59
+    },
+    {
+      "item": "station_0_16",
+      "value": 43.53
+    }
+  ],
+  "Bidder_8": [
+    {
+      "item": "station_4_0",
+      "value": 17.97
+    }
+  ],
+  "Bidder_9": [
+    {
+      "item": "station_1_12",
+      "value": 16.2
+    },
+    {
+      "item": "station_0_12",
+      "value": 16.15
+    },
+    {
+      "item": "station_2_12",
+      "value": 16.13
+    },
+    {
+      "item": "station_3_12",
+      "value": 16.12
+    },
+    {
+      "item": "station_5_12",
+      "value": 16.11
+    },
+    {
+      "item": "station_4_12",
+      "value": 16.11
+    }
+  ],
+  "Bidder_10": [
+    {
+      "item": "station_2_17",
+      "value": 16.37
+    },
+    {
+      "item": "station_1_22",
+      "value": 16.33
+    },
+    {
+      "item": "station_3_22",
+      "value": 16.33
+    },
+    {
+      "item": "station_4_22",
+      "value": 16.31
+    },
+    {
+      "item": "station_0_16",
+      "value": 16.22
+    },
+    {
+      "item": "station_5_22",
+      "value": 16.21
+    }
+  ],
+  "Bidder_11": [
+    {
+      "item": "station_5_5",
+      "value": 37.49
+    },
+    {
+      "item": "station_4_10",
+      "value": 37.48
+    },
+    {
+      "item": "station_3_10",
+      "value": 37.46
+    },
+    {
+      "item": "station_0_5",
+      "value": 37.4
+    },
+    {
+      "item": "station_2_5",
+      "value": 37.4
+    },
+    {
+      "item": "station_1_5",
+      "value": 37.36
+    }
+  ],
+  "Bidder_12": [
+    {
+      "item": "station_1_1",
+      "value": 164.28
+    },
+    {
+      "item": "station_0_1",
+      "value": 164.23
+    },
+    {
+      "item": "station_2_1",
+      "value": 164.22
+    },
+    {
+      "item": "station_3_1",
+      "value": 164.2
+    },
+    {
+      "item": "station_4_1",
+      "value": 164.19
+    },
+    {
+      "item": "station_5_1",
+      "value": 164.18
+    }
+  ],
+  "Bidder_13": [
+    {
+      "item": "station_1_9",
+      "value": 82.9
+    },
+    {
+      "item": "station_2_15",
+      "value": 82.88
+    },
+    {
+      "item": "station_3_15",
+      "value": 82.8
+    },
+    {
+      "item": "station_4_15",
+      "value": 82.76
+    },
+    {
+      "item": "station_0_15",
+      "value": 82.67
+    },
+    {
+      "item": "station_5_13",
+      "value": 82.62
+    }
+  ],
+  "Bidder_14": [
+    {
+      "item": "station_3_21",
+      "value": 66.74
+    },
+    {
+      "item": "station_2_21",
+      "value": 66.74
+    },
+    {
+      "item": "station_4_21",
+      "value": 66.72
+    },
+    {
+      "item": "station_1_17",
+      "value": 66.67
+    },
+    {
+      "item": "station_5_18",
+      "value": 66.61
+    },
+    {
+      "item": "station_0_21",
+      "value": 66.6
+    }
+  ],
+  "Bidder_15": [
+    {
+      "item": "station_0_1",
+      "value": 99.12
+    },
+    {
+      "item": "station_5_1",
+      "value": 99.05
+    },
+    {
+      "item": "station_1_1",
+      "value": 98.8
+    },
+    {
+      "item": "station_4_1",
+      "value": 98.71
+    },
+    {
+      "item": "station_3_1",
+      "value": 98.69
+    },
+    {
+      "item": "station_2_1",
+      "value": 98.65
+    }
+  ],
+  "Bidder_16": [
+    {
+      "item": "station_5_1",
+      "value": 19.51
+    }
+  ],
+  "Bidder_17": [
+    {
+      "item": "station_5_15",
+      "value": 161.1
+    },
+    {
+      "item": "station_0_15",
+      "value": 160.9
+    },
+    {
+      "item": "station_4_15",
+      "value": 160.82
+    },
+    {
+      "item": "station_3_15",
+      "value": 160.76
+    },
+    {
+      "item": "station_1_15",
+      "value": 160.66
+    },
+    {
+      "item": "station_2_15",
+      "value": 160.64
+    }
+  ],
+  "Bidder_18": [
+    {
+      "item": "station_5_23",
+      "value": 11.03
+    },
+    {
+      "item": "station_0_23",
+      "value": 10.96
+    },
+    {
+      "item": "station_4_23",
+      "value": 10.95
+    },
+    {
+      "item": "station_3_23",
+      "value": 10.94
+    },
+    {
+      "item": "station_1_23",
+      "value": 10.92
+    },
+    {
+      "item": "station_2_23",
+      "value": 10.91
+    }
+  ],
+  "Bidder_19": [
+    {
+      "item": "station_5_1",
+      "value": 9.69
+    },
+    {
+      "item": "station_4_1",
+      "value": 9.66
+    },
+    {
+      "item": "station_3_1",
+      "value": 9.65
+    },
+    {
+      "item": "station_0_1",
+      "value": 9.65
+    },
+    {
+      "item": "station_1_1",
+      "value": 9.62
+    },
+    {
+      "item": "station_2_1",
+      "value": 9.62
+    }
+  ],
+  "Bidder_20": [
+    {
+      "item": "station_0_6",
+      "value": 47.16
+    },
+    {
+      "item": "station_5_6",
+      "value": 47.1
+    },
+    {
+      "item": "station_1_6",
+      "value": 47.06
+    },
+    {
+      "item": "station_4_4",
+      "value": 46.99
+    },
+    {
+      "item": "station_3_4",
+      "value": 46.99
+    },
+    {
+      "item": "station_2_6",
+      "value": 46.99
+    }
+  ],
+  "Bidder_21": [
+    {
+      "item": "station_5_8",
+      "value": 139.98
+    },
+    {
+      "item": "station_0_8",
+      "value": 139.95
+    },
+    {
+      "item": "station_1_12",
+      "value": 139.83
+    },
+    {
+      "item": "station_4_8",
+      "value": 139.82
+    },
+    {
+      "item": "station_3_12",
+      "value": 139.81
+    },
+    {
+      "item": "station_2_8",
+      "value": 139.78
+    }
+  ],
+  "Bidder_22": [
+    {
+      "item": "station_0_20",
+      "value": 122.77
+    },
+    {
+      "item": "station_5_20",
+      "value": 122.63
+    },
+    {
+      "item": "station_1_20",
+      "value": 122.53
+    },
+    {
+      "item": "station_4_21",
+      "value": 122.36
+    },
+    {
+      "item": "station_3_21",
+      "value": 122.36
+    },
+    {
+      "item": "station_2_20",
+      "value": 122.36
+    }
+  ],
+  "Bidder_23": [
+    {
+      "item": "station_1_18",
+      "value": 83.98
+    },
+    {
+      "item": "station_2_9",
+      "value": 83.92
+    },
+    {
+      "item": "station_3_9",
+      "value": 83.84
+    },
+    {
+      "item": "station_0_9",
+      "value": 83.82
+    },
+    {
+      "item": "station_4_9",
+      "value": 83.81
+    },
+    {
+      "item": "station_5_9",
+      "value": 83.73
+    }
+  ],
+  "Bidder_24": [
+    {
+      "item": "station_4_3",
+      "value": 22.06
+    },
+    {
+      "item": "station_3_7",
+      "value": 22.04
+    },
+    {
+      "item": "station_2_3",
+      "value": 21.99
+    },
+    {
+      "item": "station_5_3",
+      "value": 21.97
+    },
+    {
+      "item": "station_1_7",
+      "value": 21.95
+    },
+    {
+      "item": "station_0_7",
+      "value": 21.92
+    }
+  ],
+  "Bidder_25": [
+    {
+      "item": "station_5_12",
+      "value": 18.51
+    },
+    {
+      "item": "station_0_12",
+      "value": 18.48
+    },
+    {
+      "item": "station_4_12",
+      "value": 18.37
+    },
+    {
+      "item": "station_1_12",
+      "value": 18.36
+    },
+    {
+      "item": "station_3_12",
+      "value": 18.35
+    },
+    {
+      "item": "station_2_12",
+      "value": 18.32
+    }
+  ],
+  "Bidder_26": [
+    {
+      "item": "station_5_17",
+      "value": 56.12
+    },
+    {
+      "item": "station_4_19",
+      "value": 56.08
+    },
+    {
+      "item": "station_3_19",
+      "value": 56.06
+    },
+    {
+      "item": "station_0_19",
+      "value": 56.05
+    },
+    {
+      "item": "station_2_17",
+      "value": 56.01
+    }
+  ],
+  "Bidder_27": [
+    {
+      "item": "station_3_3",
+      "value": 122.15
+    },
+    {
+      "item": "station_2_3",
+      "value": 122.14
+    },
+    {
+      "item": "station_4_3",
+      "value": 122.13
+    },
+    {
+      "item": "station_1_3",
+      "value": 121.97
+    },
+    {
+      "item": "station_5_3",
+      "value": 121.83
+    },
+    {
+      "item": "station_0_3",
+      "value": 121.77
+    }
+  ],
+  "Bidder_28": [
+    {
+      "item": "station_0_3",
+      "value": 72.33
+    },
+    {
+      "item": "station_5_3",
+      "value": 72.24
+    },
+    {
+      "item": "station_1_5",
+      "value": 72.15
+    },
+    {
+      "item": "station_4_5",
+      "value": 72.08
+    },
+    {
+      "item": "station_3_2",
+      "value": 72.08
+    },
+    {
+      "item": "station_2_5",
+      "value": 72.06
+    }
+  ],
+  "Bidder_29": [
+    {
+      "item": "station_4_10",
+      "value": 276.26
+    },
+    {
+      "item": "station_3_10",
+      "value": 276.25
+    },
+    {
+      "item": "station_2_10",
+      "value": 276.19
+    },
+    {
+      "item": "station_1_10",
+      "value": 276.08
+    },
+    {
+      "item": "station_5_10",
+      "value": 276.07
+    },
+    {
+      "item": "station_0_10",
+      "value": 276.0
+    }
+  ],
+  "Bidder_30": [
+    {
+      "item": "station_5_17",
+      "value": 43.73
+    }
+  ],
+  "Bidder_31": [
+    {
+      "item": "station_5_19",
+      "value": 68.16
+    },
+    {
+      "item": "station_0_19",
+      "value": 68.05
+    },
+    {
+      "item": "station_4_19",
+      "value": 68.03
+    },
+    {
+      "item": "station_3_19",
+      "value": 68.0
+    },
+    {
+      "item": "station_1_19",
+      "value": 67.96
+    },
+    {
+      "item": "station_2_19",
+      "value": 67.95
+    }
+  ],
+  "Bidder_32": [
+    {
+      "item": "station_5_5",
+      "value": 36.67
+    }
+  ],
+  "Bidder_33": [
+    {
+      "item": "station_4_9",
+      "value": 155.71
+    },
+    {
+      "item": "station_3_9",
+      "value": 155.7
+    },
+    {
+      "item": "station_2_10",
+      "value": 155.65
+    },
+    {
+      "item": "station_1_9",
+      "value": 155.5
+    },
+    {
+      "item": "station_5_10",
+      "value": 155.48
+    }
+  ],
+  "Bidder_34": [
+    {
+      "item": "station_5_19",
+      "value": 6.14
+    },
+    {
+      "item": "station_4_16",
+      "value": 6.11
+    },
+    {
+      "item": "station_3_18",
+      "value": 6.1
+    },
+    {
+      "item": "station_0_19",
+      "value": 6.08
+    },
+    {
+      "item": "station_2_19",
+      "value": 6.06
+    },
+    {
+      "item": "station_1_19",
+      "value": 6.06
+    }
+  ],
+  "Bidder_35": [
+    {
+      "item": "station_5_17",
+      "value": 11.33
+    },
+    {
+      "item": "station_0_5",
+      "value": 11.3
+    },
+    {
+      "item": "station_4_5",
+      "value": 11.2
+    },
+    {
+      "item": "station_1_23",
+      "value": 11.2
+    },
+    {
+      "item": "station_3_17",
+      "value": 11.19
+    },
+    {
+      "item": "station_2_17",
+      "value": 11.16
+    }
+  ],
+  "Bidder_36": [
+    {
+      "item": "station_5_1",
+      "value": 150.64
+    }
+  ],
+  "Bidder_37": [
+    {
+      "item": "station_5_10",
+      "value": 8.88
+    }
+  ],
+  "Bidder_38": [
+    {
+      "item": "station_3_19",
+      "value": 30.57
+    },
+    {
+      "item": "station_4_19",
+      "value": 30.57
+    },
+    {
+      "item": "station_2_19",
+      "value": 30.56
+    },
+    {
+      "item": "station_1_23",
+      "value": 30.47
+    },
+    {
+      "item": "station_5_19",
+      "value": 30.43
+    }
+  ],
+  "Bidder_39": [
+    {
+      "item": "station_4_21",
+      "value": 14.69
+    },
+    {
+      "item": "station_3_21",
+      "value": 14.67
+    },
+    {
+      "item": "station_2_21",
+      "value": 14.63
+    },
+    {
+      "item": "station_5_21",
+      "value": 14.63
+    },
+    {
+      "item": "station_1_21",
+      "value": 14.61
+    },
+    {
+      "item": "station_0_21",
+      "value": 14.59
+    }
+  ],
+  "Bidder_40": [
+    {
+      "item": "station_5_6",
+      "value": 7.64
+    },
+    {
+      "item": "station_4_7",
+      "value": 7.64
+    },
+    {
+      "item": "station_3_2",
+      "value": 7.62
+    },
+    {
+      "item": "station_2_7",
+      "value": 7.56
+    },
+    {
+      "item": "station_0_7",
+      "value": 7.56
+    },
+    {
+      "item": "station_1_6",
+      "value": 7.53
+    }
+  ],
+  "Bidder_41": [
+    {
+      "item": "station_2_9",
+      "value": 25.07
+    },
+    {
+      "item": "station_1_9",
+      "value": 25.05
+    },
+    {
+      "item": "station_3_14",
+      "value": 25.03
+    },
+    {
+      "item": "station_4_12",
+      "value": 25.02
+    },
+    {
+      "item": "station_0_14",
+      "value": 24.96
+    },
+    {
+      "item": "station_5_9",
+      "value": 24.95
+    }
+  ],
+  "Bidder_42": [
+    {
+      "item": "station_5_18",
+      "value": 25.27
+    }
+  ],
+  "Bidder_43": [
+    {
+      "item": "station_2_11",
+      "value": 34.01
+    },
+    {
+      "item": "station_3_11",
+      "value": 33.95
+    },
+    {
+      "item": "station_1_11",
+      "value": 33.93
+    },
+    {
+      "item": "station_4_11",
+      "value": 33.93
+    },
+    {
+      "item": "station_0_11",
+      "value": 33.78
+    },
+    {
+      "item": "station_5_11",
+      "value": 33.77
+    }
+  ],
+  "Bidder_44": [
+    {
+      "item": "station_0_7",
+      "value": 170.87
+    },
+    {
+      "item": "station_5_7",
+      "value": 170.85
+    },
+    {
+      "item": "station_1_7",
+      "value": 170.58
+    },
+    {
+      "item": "station_4_7",
+      "value": 170.53
+    },
+    {
+      "item": "station_3_7",
+      "value": 170.5
+    }
+  ],
+  "Bidder_45": [
+    {
+      "item": "station_5_10",
+      "value": 7.31
+    },
+    {
+      "item": "station_4_8",
+      "value": 7.27
+    },
+    {
+      "item": "station_3_13",
+      "value": 7.25
+    },
+    {
+      "item": "station_0_10",
+      "value": 7.24
+    },
+    {
+      "item": "station_2_13",
+      "value": 7.21
+    },
+    {
+      "item": "station_1_8",
+      "value": 7.19
+    }
+  ],
+  "Bidder_46": [
+    {
+      "item": "station_5_20",
+      "value": 11.07
+    },
+    {
+      "item": "station_0_20",
+      "value": 11.04
+    },
+    {
+      "item": "station_4_20",
+      "value": 10.92
+    },
+    {
+      "item": "station_1_20",
+      "value": 10.92
+    },
+    {
+      "item": "station_3_21",
+      "value": 10.91
+    },
+    {
+      "item": "station_2_21",
+      "value": 10.88
+    }
+  ],
+  "Bidder_47": [
+    {
+      "item": "station_0_20",
+      "value": 32.6
+    },
+    {
+      "item": "station_5_20",
+      "value": 32.6
+    },
+    {
+      "item": "station_1_1",
+      "value": 32.44
+    },
+    {
+      "item": "station_4_10",
+      "value": 32.42
+    },
+    {
+      "item": "station_3_10",
+      "value": 32.4
+    },
+    {
+      "item": "station_2_10",
+      "value": 32.37
+    }
+  ],
+  "Bidder_48": [
+    {
+      "item": "station_1_1",
+      "value": 189.77
+    },
+    {
+      "item": "station_2_7",
+      "value": 189.68
+    },
+    {
+      "item": "station_3_2",
+      "value": 189.64
+    },
+    {
+      "item": "station_4_7",
+      "value": 189.62
+    },
+    {
+      "item": "station_0_1",
+      "value": 189.59
+    },
+    {
+      "item": "station_5_7",
+      "value": 189.54
+    }
+  ],
+  "Bidder_49": [
+    {
+      "item": "station_5_11",
+      "value": 91.92
+    },
+    {
+      "item": "station_4_11",
+      "value": 91.92
+    },
+    {
+      "item": "station_3_11",
+      "value": 91.89
+    },
+    {
+      "item": "station_2_11",
+      "value": 91.81
+    },
+    {
+      "item": "station_0_10",
+      "value": 91.8
+    },
+    {
+      "item": "station_1_10",
+      "value": 91.77
+    }
+  ]
+}

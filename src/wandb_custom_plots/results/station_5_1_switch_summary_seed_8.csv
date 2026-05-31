@@ -1,0 +1,4 @@
+bidder_id,first_round_on_station_5_1,last_round_on_station_5_1,switch_to_item,final_allocation_ml,final_outcome
+16,1,56,,,none
+19,1,1,,station_2_1,won_other
+36,1,56,,station_5_1,won_station_5_1
